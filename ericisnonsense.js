@@ -1,1 +1,1 @@
-const eric = "This file name is a lie";
+const eric = "This file name is the truth";
